@@ -33,26 +33,26 @@ export const projects = [
     type: "Odoo Custom Module",
     description: "Sistem manajemen penyewaan alat dan kendaraan yang terintegrasi dengan modul Inventory dan Accounting di Odoo.",
     image: null,
-    tags: ["Odoo", "Python", "XML", "PostgreSQL"],
-    repoLink: "#",
+    tags: ["Odoo", "Python", "XML", "PostgreSQL", "JavaScript"],
+    repoLink: "https://github.com/abdlazz00/Rent-management.git",
   },
   {
     id: 2,
     title: "Library Management",
-    type: "Web Application",
+    type: "Odoo Custom Module",
     description: "Aplikasi manajemen perpustakaan digital untuk memantau sirkulasi peminjaman, pengembalian, dan denda.",
     image: null,
-    tags: ["Laravel", "React", "Tailwind CSS", "MySQL"],
+    tags: ["Odoo", "Python", "XML", "PostgreSQL"],
     repoLink: "#",
   },
   {
     id: 3,
     title: "Inilah My Aisisten",
-    type: "AI Platform",
+    type: "Web Application + AI Platform",
     description: "Platform asisten virtual berbasis kecerdasan buatan untuk membantu operasional administrasi.",
     image: null,
     tags: ["React", "Python", "FastAPI", "OpenAI"],
-    repoLink: "#",
+    repoLink: "https://github.com/abdlazz00/inilah-my-aisisten.git",
   }
 ];
 
