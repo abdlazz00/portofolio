@@ -1,7 +1,7 @@
 export const personalInfo = {
   name: "Abdul Aziz Hermanto",
   title: "Odoo Programmer & Full-Stack Developer",
-  shortAbout: "Berpengalaman dalam pengembangan ekosistem Odoo ERP (v15-v18) dan pengembangan aplikasi web komprehensif menggunakan Laravel dan React. Fokus pada arsitektur sistem yang solid dan penyelesaian masalah bisnis yang efisien.",
+  shortAbout: "Mahasiswa S1 Sistem Informasi di Institut Teknologi Batam dengan pengalaman profesional dalam pengembangan ekosistem Odoo ERP (v15-v18) serta aplikasi web komprehensif menggunakan Laravel dan React. Berfokus pada perancangan arsitektur sistem yang solid untuk memecahkan masalah bisnis secara efisien.",
 };
 
 export const experiences = [
