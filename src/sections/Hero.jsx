@@ -18,10 +18,10 @@ const Hero = () => {
             Lihat Portofolio
             <ArrowRight size={20} className="ml-2" />
           </a>
-          <a href="#" className="inline-flex items-center justify-center px-6 py-3 border border-primary text-primary rounded-md hover:bg-slate-50 transition-colors font-medium">
+          {/* <a href="#" className="inline-flex items-center justify-center px-6 py-3 border border-primary text-primary rounded-md hover:bg-slate-50 transition-colors font-medium">
             Unduh Resume
             <Download size={20} className="ml-2" />
-          </a>
+          </a> */}
         </div>
       </div>
       <div className="flex-1 flex justify-center md:justify-end items-end relative md:mt-0">
